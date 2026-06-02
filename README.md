@@ -1,4 +1,6 @@
+该脚本主要由两部分组成：eks集群创建与节点组的创建分别为eks_stack.py与nodegroup_stack.py
 
+操作步骤：
 1. 进入项目目录
 
 cd CDK
